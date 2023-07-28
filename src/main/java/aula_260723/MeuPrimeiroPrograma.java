@@ -1,3 +1,5 @@
+package aula_260723;
+
 public class MeuPrimeiroPrograma { // Estrutura que representa o programa
     // Execução principal do programa (métodos)
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package aula_260723;
+
 public class EstudoVariaveis {
     // variavel = container de dados
     // fortemente tipada = definir o tipo de cada variável
